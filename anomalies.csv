@@ -1,0 +1,47 @@
+timestamp,anomaly_score,reason
+2026-03-25 23:53:28.904682,-0.030470207527149018,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.003689455544129361,AccountBalance deviates significantly
+2026-03-25 23:53:28.904682,-0.051777540992059,"TransactionAmount deviates significantly, LoginAttempts deviates significantly"
+2026-03-25 23:53:28.904682,-0.010805213535288183,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.005744532091957133,"TransactionDuration deviates significantly, LoginAttempts deviates significantly"
+2026-03-25 23:53:28.904682,-0.0019630915699884177,"TransactionDuration deviates significantly, LoginAttempts deviates significantly"
+2026-03-25 23:53:28.904682,-0.0008621866165970937,Unusual combination of features
+2026-03-25 23:53:28.904682,-0.002782398117838536,"TransactionDuration deviates significantly, LoginAttempts deviates significantly"
+2026-03-25 23:53:28.904682,-0.0011367769961969643,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.0016136993597011262,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.044995992564116905,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.0007011640872869318,"TransactionDuration deviates significantly, LoginAttempts deviates significantly"
+2026-03-25 23:53:28.904682,-0.02268022896534072,"LoginAttempts deviates significantly, AccountBalance deviates significantly"
+2026-03-25 23:53:28.904682,-0.005551714057583701,AccountBalance deviates significantly
+2026-03-25 23:53:28.904682,-0.0055297206402405985,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.04533823387089575,"TransactionAmount deviates significantly, LoginAttempts deviates significantly"
+2026-03-25 23:53:28.904682,-0.004883042114608771,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.004949414374845085,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.0006004022165235767,AccountBalance deviates significantly
+2026-03-25 23:53:28.904682,-0.01974468116709327,TransactionDuration deviates significantly
+2026-03-25 23:53:28.904682,-0.036158332876523036,"TransactionAmount deviates significantly, LoginAttempts deviates significantly"
+2026-03-25 23:53:28.904682,-0.0013579057775423564,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.01778053804155333,AccountBalance deviates significantly
+2026-03-25 23:53:28.904682,-0.034144200787072365,"TransactionDuration deviates significantly, LoginAttempts deviates significantly, AccountBalance deviates significantly"
+2026-03-25 23:53:28.904682,-0.0163151536787276,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.002516389013928255,"TransactionAmount deviates significantly, TransactionDuration deviates significantly"
+2026-03-25 23:53:28.904682,-0.00019104101390376993,"TransactionDuration deviates significantly, AccountBalance deviates significantly"
+2026-03-25 23:53:28.904682,-0.002324660719930982,"LoginAttempts deviates significantly, AccountBalance deviates significantly"
+2026-03-25 23:53:28.904682,-0.016902333679909898,AccountBalance deviates significantly
+2026-03-25 23:53:28.904682,-0.003548607258941905,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.008033523856202374,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.0017218419492815995,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.031396051570218186,"TransactionDuration deviates significantly, LoginAttempts deviates significantly"
+2026-03-25 23:53:28.904682,-0.03666481346494754,"LoginAttempts deviates significantly, AccountBalance deviates significantly"
+2026-03-25 23:53:28.904682,-0.008376147444007054,"LoginAttempts deviates significantly, AccountBalance deviates significantly"
+2026-03-25 23:53:28.904682,-0.03373482219300672,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.009951921427191479,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.0035748489044752363,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.005084684616442181,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.037477346897018204,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.0014896417810117413,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.005702123304438422,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.014438397293274674,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.001923675418276094,TransactionAmount deviates significantly
+2026-03-25 23:53:28.904682,-0.04273481249273636,LoginAttempts deviates significantly
+2026-03-25 23:53:28.904682,-0.013671672730595219,"TransactionDuration deviates significantly, LoginAttempts deviates significantly"
